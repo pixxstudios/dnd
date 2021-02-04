@@ -1,1 +1,0 @@
-const i:number = 10;
